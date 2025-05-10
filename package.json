@@ -1,0 +1,14 @@
+{
+  "name": "lintimate.giaodienmau.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "css": "npx tailwindcss -i input.css -o wp-content/themes/child/theme/frontend/css/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
